@@ -1,1 +1,1 @@
-# Github-Web-Scraper
+Custom class created with Nokogiri & HTTParty gems. Scraper class methods will print out the latest repositories shown on Github's trending page to the terminal. Additional utility methods also confirm how many of the repo's are in javascript or without a listed programming language. 
